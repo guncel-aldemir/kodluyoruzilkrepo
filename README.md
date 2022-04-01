@@ -30,5 +30,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
+
 ## PNG FILE
 ![](https://github.com/guncel-aldemir/kodluyoruzilkrepo/blob/main/github%20png.png)
